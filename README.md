@@ -13,7 +13,7 @@ https://github.com/lilNuget05/e-vaikals1.git
 2. Pāriet uz projekta direktoriju:
 
 ```shell
-cd EVeikals
+cd e-vaikals1
 ```
 
 3. Instalējiet nepieciešamās atkarības, izmantojot npm:
